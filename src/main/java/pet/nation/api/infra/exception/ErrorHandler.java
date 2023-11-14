@@ -1,4 +1,4 @@
-package pet.nation.api.infra;
+package pet.nation.api.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
